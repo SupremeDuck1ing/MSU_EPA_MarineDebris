@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - throwAway
+  - Intro
+  - Task1
+  - Task2
+  - smallFrame
+  - NPC
+  - NPC_Hand
+  - interactable
+  - Locomotor
+  - SpringBoneEnd
+  - SpringBone
+  - handnet
+  - plastic
+  - fastfood
+  - netHandle
+  - plasticBin
+  - metalBin
+  - rubberBin
+  - landfillBin
+  - metal
+  - rubber
+  - DistanceGrabber
+  - Boat
+  - VRTKPlayer
+  - UIDriver
+  - LaserPointer
+  - Speech
+  - Arrow
+  - ArrowR
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Teleportable
+  - IgnoreInteractor
+  - Interactor
+  - Interactable
+  - NetTrash
+  - Bins
+  - Table
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: secondLayer
+    uniqueID: 2657935821
+    locked: 0
